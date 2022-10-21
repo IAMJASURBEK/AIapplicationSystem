@@ -1,5 +1,6 @@
 # AIapplicationSystem
 ## week 4
+https://github.com/IAMJASURBEK/AIapplicationSystem/blob/main/week%234.ipynb
 
 ### Stage 1
 First we prepared libraries and the variables consist of all sample data which will be used for the demonstration
@@ -18,7 +19,10 @@ We just finished creating all the needed function to do the training process.
 we created a loop to keep training the model until we reached the desried result.
 
 
-## week 4
+
+
+
+## week 7
 
 
 Week 7 folder above includes two session files
