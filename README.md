@@ -1,4 +1,4 @@
-# AIapplicationSystem
+# AIapplicationSystem - explanation is below
 ## week 4
 https://github.com/IAMJASURBEK/AIapplicationSystem/blob/main/week%234.ipynb
 
